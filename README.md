@@ -39,7 +39,7 @@ if __name__ == '__main__':
 ```
 #Use in Scala Codes
 1. export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:your_project_dir/lib
-2. cp h5spark/target/scala-2.10/h5spark_2.10-1.0.jar your_project_dir/lib/
+2. cp h5spark/target/scala-2.11/h5spark_2.11-1.0.jar your_project_dir/lib/
 3. cp h5spark/lib/* your_project_dir/lib/
 4. Then in your codes, you can use it like:
 ```
